@@ -1,1 +1,1 @@
-# company-profle-taekwondo
+# company-profile-taekwondo
