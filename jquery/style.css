@@ -1,0 +1,33 @@
+<style type="text/css">
+      #header {
+          width:400px;
+          height:50px;
+          clear:both;
+          background-color:#000;
+          color:#fff;
+      }
+      #wrapper {
+          float:left;
+      }
+      #kiri {
+          float:left;
+          width:100px;
+          background-color:#ccc;
+      }
+      #tengah {
+          float:left;
+          width:200px;
+          background-color:#999;
+      }
+      #kanan {
+          float:left;
+          width:100px;
+          background-color:#ccc;
+      }
+      #footer {
+          clear:both;
+          height:30px;
+          width:400px;
+          background-color:#000;
+          color:#fff;
+      }
